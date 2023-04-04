@@ -1,0 +1,3 @@
+C:/Users/Alina Denisa/Desktop/Materii/An 1 sem 2/Structuri de date/Proiect SDA final/cmake-build-debug/CMakeFiles/Proiect_SDA_final.dir
+C:/Users/Alina Denisa/Desktop/Materii/An 1 sem 2/Structuri de date/Proiect SDA final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alina Denisa/Desktop/Materii/An 1 sem 2/Structuri de date/Proiect SDA final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

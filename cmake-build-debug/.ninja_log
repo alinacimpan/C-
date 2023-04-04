@@ -1,0 +1,11 @@
+# ninja log v5
+0	1744	6749659475229107	CMakeFiles/Proiect_SDA_final.dir/eveniment.cpp.obj	15af0ce2174818e0
+147	2407	6749659481997318	CMakeFiles/Proiect_SDA_final.dir/main.cpp.obj	45975ed5f3adcf60
+310	3623	6749659494075962	CMakeFiles/Proiect_SDA_final.dir/retea.cpp.obj	e3f27687c782a749
+515	3794	6749659495866695	CMakeFiles/Proiect_SDA_final.dir/mesaj.cpp.obj	6a44c3b1ea9afc18
+664	4400	6749659501940926	CMakeFiles/Proiect_SDA_final.dir/Utilizator.cpp.obj	f709afe9e59da132
+788	5102	6749659508952408	CMakeFiles/Proiect_SDA_final.dir/tests.cpp.obj	e751e1cbc3fbba4e
+912	5888	6749659516823268	CMakeFiles/Proiect_SDA_final.dir/ui.cpp.obj	ba42f42ad629dac2
+5894	7492	6749659532834114	Proiect_SDA_final.exe	2ea940b29d424c54
+3	1266	6749738321430874	CMakeFiles/Proiect_SDA_final.dir/main.cpp.obj	45975ed5f3adcf60
+1266	2941	6749738338071007	Proiect_SDA_final.exe	2ea940b29d424c54

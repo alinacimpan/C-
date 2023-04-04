@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1653238788 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\eveniment.cpp
+	"eveniment.h"
+
+1653242326 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\eveniment.h
+	<string>
+	<vector>
+	<iostream>
+	"Utilizator.h"
+
+1653242716 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\utilizator.h
+	<string>
+	<iostream>
+
+1653182550 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\set.cpp
+	<iostream>
+	<vector>
+
+1653184338 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\mesaj.cpp
+	"mesaj.h"
+
+1653242339 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\mesaj.h
+	"Utilizator.h"
+
+1653255897 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\main.cpp
+	"ui.h"
+	"tests.h"
+
+1653240026 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\ui.h
+	"retea.h"
+
+1653255559 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\retea.h
+	"eveniment.h"
+	"Utilizator.h"
+	"multiDictionar.h"
+	"list.h"
+	"mesaj.h"
+	<vector>
+
+1653243316 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\multidictionar.h
+	<vector>
+
+1653230862 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\set.h
+
+1653255559 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\retea.cpp
+	"retea.h"
+	<fstream>
+
+1653245347 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\ui.cpp
+	"ui.h"
+	<iostream>
+
+1653243316 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\utilizator.cpp
+	"Utilizator.h"
+
+1653256151 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\list.h
+	<iostream>
+	<vector>
+
+1653256165 c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\tests.h
+
+1653256253 source:c:\users\alina denisa\desktop\materii\an 1 sem 2\structuri de date\proiect sda final\tests.cpp
+	<cassert>
+	<iostream>
+	"tests.h"
+	"multiDictionar.h"
+	"list.h"
+
